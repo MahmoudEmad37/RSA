@@ -1,0 +1,28 @@
+C:\Users\Mahmoud Emad\source\repos\Project Algo\Project Algo\bin\Debug\Project Algo.exe.config
+C:\Users\Mahmoud Emad\source\repos\Project Algo\Project Algo\bin\Debug\Project Algo.exe
+C:\Users\Mahmoud Emad\source\repos\Project Algo\Project Algo\bin\Debug\Project Algo.pdb
+C:\Users\Mahmoud Emad\source\repos\Project Algo\Project Algo\obj\Debug\Project Algo.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Emad\source\repos\Project Algo\Project Algo\obj\Debug\Project Algo.exe
+C:\Users\Mahmoud Emad\source\repos\Project Algo\Project Algo\obj\Debug\Project Algo.pdb
+C:\Users\Mahmoud Emad\source\repos\Project Algo\Project Algo\obj\Debug\Project Algo.csprojAssemblyReference.cache
+C:\Users\Mahmoud Emad\Desktop\Project Algo\Project Algo\bin\Debug\Project Algo.exe.config
+C:\Users\Mahmoud Emad\Desktop\Project Algo\Project Algo\bin\Debug\Project Algo.exe
+C:\Users\Mahmoud Emad\Desktop\Project Algo\Project Algo\bin\Debug\Project Algo.pdb
+C:\Users\Mahmoud Emad\Desktop\Project Algo\Project Algo\obj\Debug\Project Algo.csprojAssemblyReference.cache
+C:\Users\Mahmoud Emad\Desktop\Project Algo\Project Algo\obj\Debug\Project Algo.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Emad\Desktop\Project Algo\Project Algo\obj\Debug\Project Algo.exe
+C:\Users\Mahmoud Emad\Desktop\Project Algo\Project Algo\obj\Debug\Project Algo.pdb
+C:\Users\Mahmoud Emad\Desktop\picture\Project Algo\Project Algo\bin\Debug\Project Algo.exe.config
+C:\Users\Mahmoud Emad\Desktop\picture\Project Algo\Project Algo\bin\Debug\Project Algo.exe
+C:\Users\Mahmoud Emad\Desktop\picture\Project Algo\Project Algo\bin\Debug\Project Algo.pdb
+C:\Users\Mahmoud Emad\Desktop\picture\Project Algo\Project Algo\obj\Debug\Project Algo.csprojAssemblyReference.cache
+C:\Users\Mahmoud Emad\Desktop\picture\Project Algo\Project Algo\obj\Debug\Project Algo.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Emad\Desktop\picture\Project Algo\Project Algo\obj\Debug\Project Algo.exe
+C:\Users\Mahmoud Emad\Desktop\picture\Project Algo\Project Algo\obj\Debug\Project Algo.pdb
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\bin\Debug\Project Algo.exe.config
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\bin\Debug\Project Algo.exe
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\bin\Debug\Project Algo.pdb
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\obj\Debug\Project Algo.csprojAssemblyReference.cache
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\obj\Debug\Project Algo.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\obj\Debug\Project Algo.exe
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\obj\Debug\Project Algo.pdb

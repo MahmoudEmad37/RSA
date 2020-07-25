@@ -1,0 +1,14 @@
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\bin\Release\Project Algo.exe.config
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\bin\Release\Project Algo.exe
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\bin\Release\Project Algo.pdb
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\obj\Release\Project Algo.csprojAssemblyReference.cache
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\obj\Release\Project Algo.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\obj\Release\Project Algo.exe
+C:\Users\Mahmoud Emad\Desktop\picture\New folder\Project Algo\Project Algo\obj\Release\Project Algo.pdb
+F:\Project\Project Algo\Project Algo\bin\Release\Project Algo.exe.config
+F:\Project\Project Algo\Project Algo\bin\Release\Project Algo.exe
+F:\Project\Project Algo\Project Algo\bin\Release\Project Algo.pdb
+F:\Project\Project Algo\Project Algo\obj\Release\Project Algo.csprojAssemblyReference.cache
+F:\Project\Project Algo\Project Algo\obj\Release\Project Algo.csproj.CoreCompileInputs.cache
+F:\Project\Project Algo\Project Algo\obj\Release\Project Algo.exe
+F:\Project\Project Algo\Project Algo\obj\Release\Project Algo.pdb
